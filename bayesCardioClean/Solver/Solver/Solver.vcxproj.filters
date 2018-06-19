@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Amazigh">
+      <UniqueIdentifier>{01e5ea2f-d1bc-4fee-abd2-13305a93db07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SolversBayes">
+      <UniqueIdentifier>{1854e953-2e38-4b02-955a-d7ecbfa0bd4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SolversBayes\LBFGSB">
+      <UniqueIdentifier>{e87d7540-84c9-467e-bb7b-b238243319e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SolversBayes\GOMEA">
+      <UniqueIdentifier>{aa6b30fc-1755-4bf0-84a9-cfa7457dce07}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SolversBayes\CMAES">
+      <UniqueIdentifier>{a86fa128-f4c3-4bad-afdc-98de4d98b9e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gaussian">
+      <UniqueIdentifier>{28b42a89-37c2-40d4-9ed0-336e8018d985}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bayes">
+      <UniqueIdentifier>{cc8f9c94-15b2-4985-bc8a-bf5e95bd8ffa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Cardio">
+      <UniqueIdentifier>{5131b6b0-cbc2-4976-91dd-44356ea07eb9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\multi\home.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\util\FOS.c">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\RV-GOMEA\RV-GOMEA.c">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\util\SO_optimization.c">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\util\ToolsWIN.c">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\mathMatrix.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\mathVector.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\openFile.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\plot2D.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\printFile.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\showFile.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\supportC.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\driver1.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\lbfgsb.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\linesearch.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\linpack.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\miniCBLAS.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\print.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\subalgorithms.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\timer.c">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\CMAES\src\boundary_transformation.c">
+      <Filter>SolversBayes\CMAES</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\CMAES\src\cmaes.c">
+      <Filter>SolversBayes\CMAES</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\problemDef.c">
+      <Filter>SolversBayes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\solversAQ.c">
+      <Filter>SolversBayes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Gaussian\gaussian.c">
+      <Filter>Gaussian</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Solvers\functions.c">
+      <Filter>SolversBayes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Bayes\bayesTest.c">
+      <Filter>Bayes</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Amazigh\solvers.c">
+      <Filter>Amazigh</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Cardio\cardio.c">
+      <Filter>Cardio</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Cardio\cell.c">
+      <Filter>Cardio</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Cardio\FEM.c">
+      <Filter>Cardio</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Cardio\FEMTests.c">
+      <Filter>Cardio</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\multi\Cardio\geometry.c">
+      <Filter>Cardio</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\multi\Solvers\util\FOS.h">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\RV-GOMEA\RV-GOMEA.h">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\util\SO_optimization.h">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\util\ToolsWIN.h">
+      <Filter>SolversBayes\GOMEA</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\mathMatrix.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\mathVector.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\openFile.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\plot2D.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\printFile.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\showFile.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\supportC.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\LBFGSB\lbfgsb.h">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\LBFGSB\driver1.h">
+      <Filter>SolversBayes\LBFGSB</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\CMAES\src\boundary_transformation.h">
+      <Filter>SolversBayes\CMAES</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\CMAES\src\cmaes.h">
+      <Filter>SolversBayes\CMAES</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\CMAES\src\cmaes_interface.h">
+      <Filter>SolversBayes\CMAES</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\solversAQ.h">
+      <Filter>SolversBayes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\problemDef.h">
+      <Filter>SolversBayes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Gaussian\gaussian.h">
+      <Filter>Gaussian</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Solvers\functions.h">
+      <Filter>SolversBayes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Bayes\bayesTest.h">
+      <Filter>Bayes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Amazigh\solvers.h">
+      <Filter>Amazigh</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Cardio\cardio.h">
+      <Filter>Cardio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Cardio\cell.h">
+      <Filter>Cardio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Cardio\FEM.h">
+      <Filter>Cardio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Cardio\FEMTests.h">
+      <Filter>Cardio</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\multi\Cardio\geometry.h">
+      <Filter>Cardio</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

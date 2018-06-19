@@ -1,0 +1,2860 @@
+
+# --------- Wed Apr 25 13:35:47 2018
+
+ N 2
+ seed 1070879761
+function evaluations 1818
+elapsed (CPU) time [s] 0.24
+function value f(x)=-5569.53
+maximal standard deviation 9.79144e-12
+minimal standard deviation 3.00118e-12
+sigma 4.66343e-09
+axisratio 171.151
+xbestever found after 1812 evaluations, function value -5569.53
+     0.876562         -0.05
+xbest (of last generation, function value -5569.53)
+     0.876562         -0.05
+xmean 
+     0.876562         -0.05
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.79144e-12   3.00118e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.12883e-11   6.59554e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.956158      0.292851
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.292851     -0.956158
+
+# --------- Wed Apr 25 13:35:47 2018
+
+ N 2
+ seed 1070879909
+function evaluations 3042
+elapsed (CPU) time [s] 0.47
+function value f(x)=-209.837
+maximal standard deviation 9.79037e-12
+minimal standard deviation 8.90402e-12
+sigma 2.85738e-07
+axisratio 75.0251
+xbestever found after 972 evaluations, function value -209.837
+      0.74031     0.0620879
+xbest (of last generation, function value -209.837)
+      0.74031     0.0620879
+xmean 
+      0.74031     0.0620879
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.79037e-12   8.90402e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.31069e-11     1.747e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.739405      0.673261
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.673261     -0.739405
+
+# --------- Wed Apr 25 13:35:48 2018
+
+ N 2
+ seed 1070880165
+function evaluations 6570
+elapsed (CPU) time [s] 0.80
+function value f(x)=1.60567
+maximal standard deviation 9.18741e-12
+minimal standard deviation 7.46537e-13
+sigma 2.80021e-05
+axisratio 9788.43
+xbestever found after 702 evaluations, function value 1.60567
+     0.758886     0.0771478
+xbest (of last generation, function value 1.60567)
+     0.758886     0.0771477
+xmean 
+     0.758886     0.0771477
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.18741e-12   7.46537e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.99481e-12   1.02108e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.996715    -0.0809847
+Shortest axis (b_i where d_ii=max(diag(D))
+   -0.0809847     -0.996715
+
+# --------- Wed Apr 25 13:35:49 2018
+
+ N 2
+ seed 1070880632
+function evaluations 7128
+elapsed (CPU) time [s] 1.85
+function value f(x)=0.903423
+maximal standard deviation 9.07792e-12
+minimal standard deviation 3.46441e-12
+sigma 6.71254e-05
+axisratio 8640.69
+xbestever found after 6906 evaluations, function value 0.903418
+     0.759122     0.0774471
+xbest (of last generation, function value 0.903423)
+     0.759122     0.0774471
+xmean 
+     0.759122     0.0774471
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  3.46441e-12   9.07792e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.03802e-11   1.20131e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.356553      0.934275
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.934275      0.356553
+
+# --------- Wed Apr 25 13:35:50 2018
+
+ N 2
+ seed 1070881123
+function evaluations 10470
+elapsed (CPU) time [s] 2.24
+function value f(x)=0.897142
+maximal standard deviation 7.79186e-12
+minimal standard deviation 5.96094e-12
+sigma 0.0273284
+axisratio 57048
+xbestever found after 9390 evaluations, function value 0.88898
+     0.758627     0.0767722
+xbest (of last generation, function value 0.897142)
+     0.758627     0.0767722
+xmean 
+     0.758627     0.0767722
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.79186e-12   5.96094e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.02795e-11    1.8019e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.794238      0.607607
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.607607     -0.794238
+
+# --------- Wed Apr 25 13:35:51 2018
+
+ N 2
+ seed 1070881806
+function evaluations 7008
+elapsed (CPU) time [s] 1.89
+function value f(x)=0.446556
+maximal standard deviation 2.40805e-07
+minimal standard deviation 9.60844e-08
+sigma 0.0474667
+axisratio 3.0204e+06
+xbestever found after 414 evaluations, function value 0.432103
+     0.760557     0.0743485
+xbest (of last generation, function value 0.446556)
+     0.760565     0.0744713
+xmean 
+     0.760565     0.0744713
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.40805e-07   9.60844e-08
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  2.69059e-07   8.90806e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.928793       -0.3706
+Shortest axis (b_i where d_ii=max(diag(D))
+      -0.3706     -0.928793
+
+# --------- Wed Apr 25 13:35:53 2018
+
+ N 2
+ seed 1070882315
+function evaluations 11418
+elapsed (CPU) time [s] 2.46
+function value f(x)=-0.0301687
+maximal standard deviation 7.75488e-12
+minimal standard deviation 3.19458e-12
+sigma 0.165819
+axisratio 30165.2
+xbestever found after 3312 evaluations, function value -0.0338272
+      1.43836     0.0732996
+xbest (of last generation, function value -0.0301687)
+      1.43835     0.0733071
+xmean 
+      1.43835     0.0733071
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.75488e-12   3.19458e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   9.1559e-12   3.03525e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.924619      0.380892
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.380892     -0.924619
+
+# --------- Wed Apr 25 13:35:54 2018
+
+ N 2
+ seed 1070883157
+function evaluations 6468
+elapsed (CPU) time [s] 0.87
+function value f(x)=-0.0317017
+maximal standard deviation 9.95635e-12
+minimal standard deviation 8.73746e-12
+sigma 3.42545e-05
+axisratio 4109.18
+xbestever found after 582 evaluations, function value -0.0392712
+       0.7614     0.0731383
+xbest (of last generation, function value -0.0317017)
+     0.761272     0.0732541
+xmean 
+     0.761272     0.0732541
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.95635e-12   8.73746e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.37987e-11   3.35801e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.751612      0.659606
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.659606     -0.751612
+
+# --------- Wed Apr 25 13:35:54 2018
+
+ N 2
+ seed 1070883653
+function evaluations 3684
+elapsed (CPU) time [s] 0.53
+function value f(x)=-0.0174299
+maximal standard deviation 9.63445e-12
+minimal standard deviation 8.3479e-12
+sigma 2.03315e-07
+axisratio 146.916
+xbestever found after 1974 evaluations, function value -0.0373006
+     0.761218     0.0732826
+xbest (of last generation, function value -0.0174299)
+     0.761218     0.0732826
+xmean 
+     0.761218     0.0732826
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   8.3479e-12   9.63445e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.38694e-11   9.44035e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.654751      0.755845
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.755845      0.654751
+
+# --------- Wed Apr 25 13:35:55 2018
+
+ N 2
+ seed 1070883930
+function evaluations 2652
+elapsed (CPU) time [s] 0.41
+function value f(x)=-0.0239027
+maximal standard deviation 8.64341e-12
+minimal standard deviation 6.65847e-12
+sigma 2.27704e-08
+axisratio 67.5435
+xbestever found after 1524 evaluations, function value -0.0449182
+     0.761814     -0.173302
+xbest (of last generation, function value -0.0239027)
+     0.761814     -0.173302
+xmean 
+     0.761814     -0.173302
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.65847e-12   8.64341e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.14935e-11   1.70164e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.609484      0.792798
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.792798      0.609484
+
+# --------- Wed Apr 25 13:35:56 2018
+
+ N 2
+ seed 1070884198
+function evaluations 6864
+elapsed (CPU) time [s] 1.17
+function value f(x)=-0.0419007
+maximal standard deviation 7.22485e-12
+minimal standard deviation 5.79788e-13
+sigma 0.000116462
+axisratio 967.801
+xbestever found after 2526 evaluations, function value -0.0527774
+     0.761518     0.0733974
+xbest (of last generation, function value -0.0419007)
+     0.761518     0.0733968
+xmean 
+     0.761518     0.0733968
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  5.79788e-13   7.22485e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  7.95587e-12   8.22057e-15
+Longest axis (b_i where d_ii=max(diag(D))
+   -0.0799633      0.996798
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.996798    -0.0799633
+
+# --------- Wed Apr 25 13:35:57 2018
+
+ N 2
+ seed 1070884846
+function evaluations 6012
+elapsed (CPU) time [s] 2.04
+function value f(x)=-0.0291851
+maximal standard deviation 8.73044e-12
+minimal standard deviation 3.67893e-12
+sigma 7.23055e-05
+axisratio 35.7239
+xbestever found after 1302 evaluations, function value -0.0480908
+      1.43851     0.0732239
+xbest (of last generation, function value -0.0291851)
+      1.43855     0.0732242
+xmean 
+      1.43855     0.0732242
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.73044e-12   3.67893e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+    1.045e-11   2.92521e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.921872     -0.387495
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.387495     -0.921872
+
+# --------- Wed Apr 25 13:35:58 2018
+
+ N 2
+ seed 1070885429
+function evaluations 8316
+elapsed (CPU) time [s] 1.41
+function value f(x)=-0.027659
+maximal standard deviation 8.23327e-12
+minimal standard deviation 5.25065e-12
+sigma 0.00196836
+axisratio 909.29
+xbestever found after 1326 evaluations, function value -0.0520168
+     0.761463     0.0730218
+xbest (of last generation, function value -0.027659)
+     0.761551     0.0729686
+xmean 
+     0.761551     0.0729686
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.23327e-12   5.25065e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.05264e-11   1.15765e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.843103     -0.537753
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.537753     -0.843103
+
+# --------- Wed Apr 25 13:35:59 2018
+
+ N 2
+ seed 1070886197
+function evaluations 6060
+elapsed (CPU) time [s] 2.10
+function value f(x)=-0.0382263
+maximal standard deviation 8.25315e-12
+minimal standard deviation 6.68911e-12
+sigma 3.17577e-06
+axisratio 9384.09
+xbestever found after 1044 evaluations, function value -0.0564223
+      1.43834     0.0733116
+xbest (of last generation, function value -0.0382263)
+      1.43807      0.073097
+xmean 
+      1.43807      0.073097
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.25315e-12   6.68911e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.17074e-11   1.24758e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.776876     -0.629654
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.629654     -0.776876
+
+# --------- Wed Apr 25 13:36:01 2018
+
+ N 2
+ seed 1070886813
+function evaluations 7398
+elapsed (CPU) time [s] 1.45
+function value f(x)=-0.0323318
+maximal standard deviation 9.42253e-12
+minimal standard deviation 8.86836e-12
+sigma 0.000198281
+axisratio 310.351
+xbestever found after 2190 evaluations, function value -0.0551917
+     0.761656     -0.173181
+xbest (of last generation, function value -0.0323318)
+     0.761622     -0.173158
+xmean 
+     0.761622     -0.173158
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.86836e-12   9.42253e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.37421e-11   4.42792e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.685407       0.72816
+Shortest axis (b_i where d_ii=max(diag(D))
+     -0.72816     -0.685407
+
+# --------- Wed Apr 25 13:36:03 2018
+
+ N 2
+ seed 1070887656
+function evaluations 12126
+elapsed (CPU) time [s] 2.41
+function value f(x)=-0.0530694
+maximal standard deviation 9.76771e-12
+minimal standard deviation 6.6911e-12
+sigma 4.28439
+axisratio 2593.09
+xbestever found after 666 evaluations, function value -0.0647635
+      1.43833     0.0734645
+xbest (of last generation, function value -0.0530694)
+      1.43869     0.0732627
+xmean 
+      1.43869     0.0732627
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   6.6911e-12   9.76771e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.26479e-11   4.87755e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     -0.56515      0.824988
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.824988      -0.56515
+
+# --------- Wed Apr 25 13:36:06 2018
+
+ N 2
+ seed 1070888983
+function evaluations 8712
+elapsed (CPU) time [s] 2.14
+function value f(x)=-0.0315037
+maximal standard deviation 9.75751e-12
+minimal standard deviation 5.0346e-12
+sigma 7.90874e-05
+axisratio 147710
+xbestever found after 3282 evaluations, function value -0.0588315
+     0.761584     0.0733543
+xbest (of last generation, function value -0.0315037)
+     0.761593     0.0733495
+xmean 
+     0.761593     0.0733495
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.75751e-12    5.0346e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.16676e-11   7.89901e-17
+Longest axis (b_i where d_ii=max(diag(D))
+     0.888677     -0.458533
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.458533     -0.888677
+
+# --------- Wed Apr 25 13:36:08 2018
+
+ N 2
+ seed 1070890240
+function evaluations 7638
+elapsed (CPU) time [s] 2.08
+function value f(x)=-0.0580258
+maximal standard deviation 9.54877e-12
+minimal standard deviation 5.48999e-12
+sigma 4.71634e-05
+axisratio 142914
+xbestever found after 7008 evaluations, function value -0.0686205
+      1.43832     0.0735257
+xbest (of last generation, function value -0.0580258)
+      1.43832     0.0735257
+xmean 
+      1.43832     0.0735257
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.54877e-12   5.48999e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.19083e-11   8.33253e-17
+Longest axis (b_i where d_ii=max(diag(D))
+     0.866928      0.498433
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.498433     -0.866928
+
+# --------- Wed Apr 25 13:36:08 2018
+
+ N 2
+ seed 1070891397
+function evaluations 3498
+elapsed (CPU) time [s] 0.76
+function value f(x)=-0.0444145
+maximal standard deviation 8.02348e-12
+minimal standard deviation 6.40966e-13
+sigma 9.59935e-08
+axisratio 87.0314
+xbestever found after 1224 evaluations, function value -0.071293
+     0.761605     -0.173339
+xbest (of last generation, function value -0.0444145)
+       0.7616     -0.173345
+xmean 
+       0.7616     -0.173345
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.40966e-13   8.02348e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+    8.528e-12   9.79877e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    0.0794208      0.996841
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.996841     0.0794208
+
+# --------- Wed Apr 25 13:36:10 2018
+
+ N 2
+ seed 1070891794
+function evaluations 7356
+elapsed (CPU) time [s] 1.69
+function value f(x)=-0.053003
+maximal standard deviation 9.56036e-12
+minimal standard deviation 7.76304e-12
+sigma 0.000141313
+axisratio 2934.17
+xbestever found after 7122 evaluations, function value -0.0826836
+     0.761403     -0.173171
+xbest (of last generation, function value -0.053003)
+     0.761403     -0.173171
+xmean 
+     0.761403     -0.173171
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.56036e-12   7.76304e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.32643e-11   4.52064e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.776303       0.63036
+Shortest axis (b_i where d_ii=max(diag(D))
+      0.63036     -0.776303
+
+# --------- Wed Apr 25 13:36:12 2018
+
+ N 2
+ seed 1070892755
+function evaluations 6066
+elapsed (CPU) time [s] 1.41
+function value f(x)=-0.0697794
+maximal standard deviation 8.99905e-12
+minimal standard deviation 7.46328e-13
+sigma 6.23713e-05
+axisratio 100.24
+xbestever found after 5700 evaluations, function value -0.0795893
+     0.761522     -0.173185
+xbest (of last generation, function value -0.0697794)
+     0.761522     -0.173185
+xmean 
+     0.761522     -0.173185
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.99905e-12   7.46328e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.90972e-12   9.88597e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.996607    -0.0823069
+Shortest axis (b_i where d_ii=max(diag(D))
+   -0.0823069     -0.996607
+
+# --------- Wed Apr 25 13:36:13 2018
+
+ N 2
+ seed 1070893579
+function evaluations 4434
+elapsed (CPU) time [s] 1.06
+function value f(x)=-0.0581677
+maximal standard deviation 8.99534e-12
+minimal standard deviation 7.57517e-12
+sigma 3.3314e-06
+axisratio 8.94566
+xbestever found after 3246 evaluations, function value -0.0726412
+     0.761389     0.0733018
+xbest (of last generation, function value -0.0581677)
+     0.761389     0.0733018
+xmean 
+     0.761389     0.0733018
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.99534e-12   7.57517e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   1.2805e-11   1.43142e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.762979      0.646423
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.646423     -0.762979
+
+# --------- Wed Apr 25 13:36:15 2018
+
+ N 2
+ seed 1070894176
+function evaluations 7092
+elapsed (CPU) time [s] 1.77
+function value f(x)=-0.0406114
+maximal standard deviation 9.78942e-12
+minimal standard deviation 1.5827e-12
+sigma 5.39546e-05
+axisratio 3166.28
+xbestever found after 5364 evaluations, function value -0.0686666
+       1.4385     -0.172947
+xbest (of last generation, function value -0.0406114)
+       1.4385     -0.172947
+xmean 
+       1.4385     -0.172947
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   1.5827e-12   9.78942e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.07778e-11   3.40394e-15
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.159603      0.987181
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.987181     -0.159603
+
+# --------- Wed Apr 25 13:36:16 2018
+
+ N 2
+ seed 1070895178
+function evaluations 5994
+elapsed (CPU) time [s] 1.53
+function value f(x)=-0.060637
+maximal standard deviation 7.84774e-12
+minimal standard deviation 9.91323e-13
+sigma 7.74648e-06
+axisratio 1811.93
+xbestever found after 4530 evaluations, function value -0.0778452
+      0.76186     0.0731794
+xbest (of last generation, function value -0.060637)
+      0.76186     0.0731794
+xmean 
+      0.76186     0.0731794
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.84774e-12   9.91323e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.64382e-12    4.7705e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.992117     -0.125313
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.125313     -0.992117
+
+# --------- Wed Apr 25 13:36:17 2018
+
+ N 2
+ seed 1070896012
+function evaluations 2250
+elapsed (CPU) time [s] 0.61
+function value f(x)=-0.0448461
+maximal standard deviation 7.42351e-12
+minimal standard deviation 2.01221e-12
+sigma 8.81355e-09
+axisratio 184.52
+xbestever found after 1404 evaluations, function value -0.0713441
+     0.761794     -0.173348
+xbest (of last generation, function value -0.0448461)
+     0.761794     -0.173348
+xmean 
+     0.761794     -0.173348
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.42351e-12   2.01221e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.41582e-12   4.56094e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.965179     -0.261589
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.261589     -0.965179
+
+# --------- Wed Apr 25 13:36:18 2018
+
+ N 2
+ seed 1070896384
+function evaluations 4272
+elapsed (CPU) time [s] 1.17
+function value f(x)=-0.0430459
+maximal standard deviation 8.86197e-12
+minimal standard deviation 2.01277e-12
+sigma 2.22637e-07
+axisratio 304.697
+xbestever found after 1128 evaluations, function value -0.0729913
+     0.761874     0.0731563
+xbest (of last generation, function value -0.0430459)
+     0.761817     0.0728452
+xmean 
+     0.761817     0.0728452
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.01277e-12   8.86197e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.92857e-12   3.25851e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.221539      0.975151
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.975151      0.221539
+
+# --------- Wed Apr 25 13:36:20 2018
+
+ N 2
+ seed 1070897041
+function evaluations 6312
+elapsed (CPU) time [s] 1.74
+function value f(x)=-0.0578196
+maximal standard deviation 1.39196e-11
+minimal standard deviation 1.30336e-11
+sigma 4.48418e-06
+axisratio 251002
+xbestever found after 378 evaluations, function value -0.079772
+     0.761761     0.0735799
+xbest (of last generation, function value -0.0578196)
+     0.761349     0.0732707
+xmean 
+     0.761349     0.0732707
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.39196e-11   1.30336e-11
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  2.08161e-11   8.29318e-17
+Longest axis (b_i where d_ii=max(diag(D))
+     0.729958      0.683493
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.683493     -0.729958
+
+# --------- Wed Apr 25 13:36:21 2018
+
+ N 2
+ seed 1070898036
+function evaluations 5124
+elapsed (CPU) time [s] 1.46
+function value f(x)=-0.0801916
+maximal standard deviation 9.29731e-12
+minimal standard deviation 2.20872e-12
+sigma 7.60787e-07
+axisratio 5044.01
+xbestever found after 3750 evaluations, function value -0.0988747
+     0.761613     0.0735439
+xbest (of last generation, function value -0.0801916)
+     0.761613      0.073544
+xmean 
+     0.761613      0.073544
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.29731e-12   2.20872e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.00495e-11   1.99236e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.972923      -0.23113
+Shortest axis (b_i where d_ii=max(diag(D))
+     -0.23113     -0.972923
+
+# --------- Wed Apr 25 13:36:24 2018
+
+ N 2
+ seed 1070898837
+function evaluations 10170
+elapsed (CPU) time [s] 2.98
+function value f(x)=-0.0579175
+maximal standard deviation 9.58147e-12
+minimal standard deviation 9.38017e-12
+sigma 0.0519065
+axisratio 8627.84
+xbestever found after 9120 evaluations, function value -0.0943753
+     0.761717      0.073231
+xbest (of last generation, function value -0.0579175)
+     0.761717      0.073231
+xmean 
+     0.761717      0.073231
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.58147e-12   9.38017e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.43082e-11   1.65838e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.714573      0.699561
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.699561     -0.714573
+
+# --------- Wed Apr 25 13:36:26 2018
+
+ N 2
+ seed 1070900501
+function evaluations 5658
+elapsed (CPU) time [s] 1.71
+function value f(x)=-0.0578556
+maximal standard deviation 1.81463e-10
+minimal standard deviation 3.98258e-11
+sigma 1.98051e-06
+axisratio 1.47827e+06
+xbestever found after 4422 evaluations, function value -0.0953926
+     0.762032     -0.172937
+xbest (of last generation, function value -0.0578556)
+     0.762032     -0.172937
+xmean 
+     0.762032     -0.172937
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.81463e-10   3.98258e-11
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   1.8662e-10   1.26243e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.976753     -0.214368
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.214368     -0.976753
+
+# --------- Wed Apr 25 13:36:29 2018
+
+ N 2
+ seed 1070901481
+function evaluations 10524
+elapsed (CPU) time [s] 3.23
+function value f(x)=-0.0611709
+maximal standard deviation 1.88961e-10
+minimal standard deviation 7.96105e-11
+sigma 0.446995
+axisratio 1.2819e+06
+xbestever found after 7086 evaluations, function value -0.0955044
+     0.761896     0.0730177
+xbest (of last generation, function value -0.0611709)
+     0.761899     0.0730088
+xmean 
+     0.761899     0.0730088
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.96105e-11   1.88961e-10
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  2.15017e-10   1.67733e-16
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.388256      0.921552
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.921552     -0.388256
+
+# --------- Wed Apr 25 13:36:32 2018
+
+ N 2
+ seed 1070903280
+function evaluations 7998
+elapsed (CPU) time [s] 3.06
+function value f(x)=-0.0614259
+maximal standard deviation 9.03022e-12
+minimal standard deviation 1.5009e-12
+sigma 0.00251305
+axisratio 30.864
+xbestever found after 6846 evaluations, function value -0.0887237
+     0.761624     0.0729596
+xbest (of last generation, function value -0.0614259)
+     0.761624     0.0729596
+xmean 
+     0.761624     0.0729596
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   1.5009e-12   9.03022e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.87382e-12   3.19913e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.161495      0.986874
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.986874      0.161495
+
+# --------- Wed Apr 25 13:36:36 2018
+
+ N 2
+ seed 1070904989
+function evaluations 8412
+elapsed (CPU) time [s] 3.30
+function value f(x)=-0.0487265
+maximal standard deviation 3.21971e-10
+minimal standard deviation 1.43887e-10
+sigma 0.00152891
+axisratio 1.25693e+06
+xbestever found after 2514 evaluations, function value -0.0923466
+      0.76172     -0.173218
+xbest (of last generation, function value -0.0487265)
+     0.761836     -0.173478
+xmean 
+     0.761836     -0.173478
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.43887e-10   3.21971e-10
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  3.85051e-10   3.06343e-16
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.408007      0.912979
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.912979     -0.408007
+
+# --------- Wed Apr 25 13:36:38 2018
+
+ N 2
+ seed 1070906868
+function evaluations 4230
+elapsed (CPU) time [s] 1.68
+function value f(x)=-0.0836118
+maximal standard deviation 8.56795e-12
+minimal standard deviation 5.66748e-12
+sigma 4.03273e-06
+axisratio 6.04027
+xbestever found after 2484 evaluations, function value -0.09248
+     0.761502     0.0731711
+xbest (of last generation, function value -0.0836118)
+     0.761518     0.0732074
+xmean 
+     0.761518     0.0732074
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  5.66748e-12   8.56795e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.08636e-11   1.79853e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.536561      0.843861
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.843861      0.536561
+
+# --------- Wed Apr 25 13:36:39 2018
+
+ N 2
+ seed 1070907832
+function evaluations 3996
+elapsed (CPU) time [s] 1.41
+function value f(x)=-0.0551581
+maximal standard deviation 7.52458e-12
+minimal standard deviation 2.1777e-12
+sigma 4.4976e-07
+axisratio 116.931
+xbestever found after 678 evaluations, function value -0.0969942
+     0.761626     -0.173468
+xbest (of last generation, function value -0.0551581)
+     0.761439     -0.173297
+xmean 
+     0.761439     -0.173297
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.52458e-12    2.1777e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.50363e-12   7.27234e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.960615     -0.277884
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.277884     -0.960615
+
+# --------- Wed Apr 25 13:36:41 2018
+
+ N 2
+ seed 1070908611
+function evaluations 6048
+elapsed (CPU) time [s] 2.08
+function value f(x)=-0.0597504
+maximal standard deviation 8.87265e-12
+minimal standard deviation 1.25922e-12
+sigma 1.02834e-05
+axisratio 12888.8
+xbestever found after 2556 evaluations, function value -0.0923086
+       0.7613     0.0734167
+xbest (of last generation, function value -0.0597504)
+     0.761289     0.0733488
+xmean 
+     0.761289     0.0733488
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.25922e-12   8.87265e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.64127e-12   7.48037e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.140513      0.990079
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.990079      0.140513
+
+# --------- Wed Apr 25 13:36:44 2018
+
+ N 2
+ seed 1070909775
+function evaluations 8484
+elapsed (CPU) time [s] 2.99
+function value f(x)=-0.0473564
+maximal standard deviation 9.54748e-12
+minimal standard deviation 1.16138e-12
+sigma 0.000348513
+axisratio 2454.21
+xbestever found after 5184 evaluations, function value -0.0998611
+     0.761327     -0.173279
+xbest (of last generation, function value -0.0473564)
+     0.761683     -0.173322
+xmean 
+     0.761683     -0.173322
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.54748e-12   1.16138e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.02929e-11   4.19398e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.992679     -0.120782
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.120782     -0.992679
+
+# --------- Wed Apr 25 13:36:46 2018
+
+ N 2
+ seed 1070911452
+function evaluations 4554
+elapsed (CPU) time [s] 1.64
+function value f(x)=-0.0573876
+maximal standard deviation 7.88889e-12
+minimal standard deviation 2.33438e-12
+sigma 4.43119e-07
+axisratio 270.735
+xbestever found after 2874 evaluations, function value -0.0979156
+     0.761717     -0.173046
+xbest (of last generation, function value -0.0573876)
+     0.761717     -0.173046
+xmean 
+     0.761717     -0.173046
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.88889e-12   2.33438e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.99912e-12   3.32395e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.958884     -0.283797
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.283797     -0.958884
+
+# --------- Wed Apr 25 13:36:48 2018
+
+ N 2
+ seed 1070912404
+function evaluations 5058
+elapsed (CPU) time [s] 2.17
+function value f(x)=-0.0667328
+maximal standard deviation 7.97973e-12
+minimal standard deviation 4.79257e-12
+sigma 5.13875e-07
+axisratio 15457.6
+xbestever found after 642 evaluations, function value -0.0935656
+     0.761517     -0.172812
+xbest (of last generation, function value -0.0667328)
+      0.76151     -0.172774
+xmean 
+      0.76151     -0.172774
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.79257e-12   7.97973e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.00314e-11   6.48961e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.514868      0.857269
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.857269      0.514868
+
+# --------- Wed Apr 25 13:36:50 2018
+
+ N 2
+ seed 1070913621
+function evaluations 5166
+elapsed (CPU) time [s] 1.95
+function value f(x)=-0.0804873
+maximal standard deviation 8.51896e-12
+minimal standard deviation 2.20651e-12
+sigma 4.21977e-06
+axisratio 91.5912
+xbestever found after 3630 evaluations, function value -0.0984793
+     0.761825     0.0736011
+xbest (of last generation, function value -0.0804873)
+     0.761825     0.0736011
+xmean 
+     0.761825     0.0736011
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.51896e-12   2.20651e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.42089e-12   1.02858e-13
+Longest axis (b_i where d_ii=max(diag(D))
+      0.96803     -0.250834
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.250834      -0.96803
+
+# --------- Wed Apr 25 13:36:51 2018
+
+ N 2
+ seed 1070914725
+function evaluations 2976
+elapsed (CPU) time [s] 1.18
+function value f(x)=-0.0772068
+maximal standard deviation 9.12958e-12
+minimal standard deviation 6.54775e-12
+sigma 5.09079e-08
+axisratio 336.264
+xbestever found after 2832 evaluations, function value -0.0967971
+      -8.4385     -0.173612
+xbest (of last generation, function value -0.0772068)
+      -8.4385     -0.173612
+xmean 
+      -8.4385     -0.173612
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.12958e-12   6.54775e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.21118e-11   3.60187e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.812705     -0.582675
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.582675     -0.812705
+
+# --------- Wed Apr 25 13:36:56 2018
+
+ N 2
+ seed 1070915392
+function evaluations 11682
+elapsed (CPU) time [s] 4.53
+function value f(x)=-0.0736224
+maximal standard deviation 3.35446e-10
+minimal standard deviation 4.23919e-11
+sigma 0.44308
+axisratio 761821
+xbestever found after 7098 evaluations, function value -0.098666
+     0.762003     -0.173131
+xbest (of last generation, function value -0.0736224)
+     0.762007     -0.173102
+xmean 
+     0.762007     -0.173102
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.23919e-11   3.35446e-10
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  3.70351e-10   4.86139e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.125378      0.992109
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.992109      0.125378
+
+# --------- Wed Apr 25 13:36:58 2018
+
+ N 2
+ seed 1070917938
+function evaluations 4260
+elapsed (CPU) time [s] 1.70
+function value f(x)=-0.0791973
+maximal standard deviation 7.89019e-12
+minimal standard deviation 6.07974e-12
+sigma 4.54848e-07
+axisratio 1267.94
+xbestever found after 2748 evaluations, function value -0.103835
+     0.761441     0.0733015
+xbest (of last generation, function value -0.0791973)
+     0.761441     0.0733015
+xmean 
+     0.761441     0.0733015
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.07974e-12   7.89019e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.09963e-11   8.67256e-15
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.610375      0.792113
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.792113     -0.610375
+
+# --------- Wed Apr 25 13:37:02 2018
+
+ N 2
+ seed 1070918923
+function evaluations 9420
+elapsed (CPU) time [s] 3.81
+function value f(x)=-0.0749644
+maximal standard deviation 2.23832e-10
+minimal standard deviation 6.56162e-11
+sigma 0.0242462
+axisratio 1.86744e+06
+xbestever found after 1638 evaluations, function value -0.114059
+     0.761681     -0.173388
+xbest (of last generation, function value -0.0749644)
+     0.761694     -0.173384
+xmean 
+     0.761694     -0.173384
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.23832e-10   6.56162e-11
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  2.47087e-10   1.32313e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.959617      0.281311
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.281311     -0.959617
+
+# --------- Wed Apr 25 13:37:04 2018
+
+ N 2
+ seed 1070921059
+function evaluations 4920
+elapsed (CPU) time [s] 2.02
+function value f(x)=-0.0627296
+maximal standard deviation 9.60975e-12
+minimal standard deviation 2.00623e-12
+sigma 4.86084e-06
+axisratio 17.3572
+xbestever found after 450 evaluations, function value -0.0996438
+     0.761699      -0.17341
+xbest (of last generation, function value -0.0627296)
+     0.761676     -0.173447
+xmean 
+     0.761676     -0.173447
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.60975e-12   2.00623e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.71394e-12    5.5965e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.979916     -0.199412
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.199412     -0.979916
+
+# --------- Wed Apr 25 13:37:06 2018
+
+ N 2
+ seed 1070922201
+function evaluations 6624
+elapsed (CPU) time [s] 2.76
+function value f(x)=-0.067921
+maximal standard deviation 9.02803e-12
+minimal standard deviation 7.64444e-12
+sigma 7.69318e-05
+axisratio 3083.72
+xbestever found after 4590 evaluations, function value -0.104296
+     0.761839     -0.173671
+xbest (of last generation, function value -0.067921)
+     0.761839     -0.173671
+xmean 
+     0.761839     -0.173671
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.02803e-12   7.64444e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.27703e-11    4.1412e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.763162      0.646207
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.646207     -0.763162
+
+# --------- Wed Apr 25 13:37:11 2018
+
+ N 2
+ seed 1070923770
+function evaluations 8088
+elapsed (CPU) time [s] 4.22
+function value f(x)=-0.0730564
+maximal standard deviation 1.11903e-08
+minimal standard deviation 6.20746e-09
+sigma 0.0270843
+axisratio 3.37125e+06
+xbestever found after 4428 evaluations, function value -0.104052
+     0.761304     0.0730795
+xbest (of last generation, function value -0.0730564)
+     0.761282     0.0731195
+xmean 
+     0.761282     0.0731195
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.20746e-09   1.11903e-08
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.11053e-08   3.29413e-15
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.485084      0.874468
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.874468     -0.485084
+
+# --------- Wed Apr 25 13:37:16 2018
+
+ N 2
+ seed 1070926113
+function evaluations 8898
+elapsed (CPU) time [s] 4.73
+function value f(x)=-0.0788153
+maximal standard deviation 8.51125e-12
+minimal standard deviation 3.71366e-12
+sigma 0.00264702
+axisratio 1086.43
+xbestever found after 7824 evaluations, function value -0.114722
+     0.761759     0.0732648
+xbest (of last generation, function value -0.0788153)
+     0.761758     0.0732653
+xmean 
+     0.761758     0.0732653
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.51125e-12   3.71366e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.01475e-11   9.34024e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.916568      -0.39988
+Shortest axis (b_i where d_ii=max(diag(D))
+     -0.39988     -0.916568
+
+# --------- Wed Apr 25 13:37:20 2018
+
+ N 2
+ seed 1070928761
+function evaluations 8112
+elapsed (CPU) time [s] 4.36
+function value f(x)=-0.0925358
+maximal standard deviation 9.0871e-12
+minimal standard deviation 5.35263e-12
+sigma 0.000951793
+axisratio 10637.2
+xbestever found after 7824 evaluations, function value -0.119825
+     0.761478     0.0732453
+xbest (of last generation, function value -0.0925358)
+     0.761478     0.0732453
+xmean 
+     0.761478     0.0732453
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   9.0871e-12   5.35263e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.16497e-11   1.09518e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.861632      0.507533
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.507533     -0.861632
+
+# --------- Wed Apr 25 13:37:23 2018
+
+ N 2
+ seed 1070931175
+function evaluations 5418
+elapsed (CPU) time [s] 2.49
+function value f(x)=-0.0900444
+maximal standard deviation 7.54765e-12
+minimal standard deviation 3.99966e-13
+sigma 2.55888e-05
+axisratio 41.3981
+xbestever found after 4242 evaluations, function value -0.123575
+     0.761647     0.0736078
+xbest (of last generation, function value -0.0900444)
+     0.761647     0.0736078
+xmean 
+     0.761647     0.0736078
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.54765e-12   3.99966e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.17715e-12   1.97525e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.998917    -0.0465306
+Shortest axis (b_i where d_ii=max(diag(D))
+   -0.0465306     -0.998917
+
+# --------- Wed Apr 25 13:44:09 2018
+
+ N 2
+ seed 1070904804
+function evaluations 1320
+elapsed (CPU) time [s] 0.18
+function value f(x)=-2868.24
+maximal standard deviation 8.85205e-12
+minimal standard deviation 1.85261e-12
+sigma 8.57179e-09
+axisratio 5.17701
+xbestever found after 762 evaluations, function value -2868.24
+     0.460067         -0.05
+xbest (of last generation, function value -2868.24)
+     0.460067         -0.05
+xmean 
+     0.460067         -0.05
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.85205e-12   1.85261e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.32918e-12   1.80204e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.998312     0.0580761
+Shortest axis (b_i where d_ii=max(diag(D))
+    0.0580761     -0.998312
+
+# --------- Wed Apr 25 13:44:09 2018
+
+ N 2
+ seed 1070904910
+function evaluations 2010
+elapsed (CPU) time [s] 0.32
+function value f(x)=22.6774
+maximal standard deviation 8.79543e-12
+minimal standard deviation 8.20612e-13
+sigma 2.58508e-08
+axisratio 13.9298
+xbestever found after 654 evaluations, function value 22.6774
+     0.739757      0.101508
+xbest (of last generation, function value 22.6774)
+     0.739757      0.101508
+xmean 
+     0.739757      0.101508
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.79543e-12   8.20612e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.54154e-12   6.84973e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.998668     0.0516009
+Shortest axis (b_i where d_ii=max(diag(D))
+    0.0516009     -0.998668
+
+# --------- Wed Apr 25 13:44:09 2018
+
+ N 2
+ seed 1070905087
+function evaluations 1530
+elapsed (CPU) time [s] 0.25
+function value f(x)=49.3425
+maximal standard deviation 8.43723e-12
+minimal standard deviation 2.68996e-12
+sigma 2.53579e-08
+axisratio 5.56699
+xbestever found after 816 evaluations, function value 49.3425
+     0.746275     -0.201224
+xbest (of last generation, function value 49.3425)
+     0.746275     -0.201224
+xmean 
+     0.746275     -0.201224
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.68996e-12   8.43723e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.38845e-12   1.68645e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.250248      0.968182
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.968182      0.250248
+
+# --------- Wed Apr 25 13:44:10 2018
+
+ N 2
+ seed 1070905281
+function evaluations 3336
+elapsed (CPU) time [s] 0.50
+function value f(x)=-10.334
+maximal standard deviation 9.99293e-12
+minimal standard deviation 1.51424e-12
+sigma 7.91826e-08
+axisratio 154.545
+xbestever found after 2208 evaluations, function value -10.334
+     0.767904     0.0643359
+xbest (of last generation, function value -10.334)
+     0.767904     0.0643359
+xmean 
+     0.767904     0.0643359
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.51424e-12   9.99293e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   1.1098e-11   7.18104e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.149518      0.988759
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.988759     -0.149518
+
+# --------- Wed Apr 25 13:47:29 2018
+
+ N 2
+ seed 1070914908
+function evaluations 5106
+elapsed (CPU) time [s] 0.71
+function value f(x)=159.997
+maximal standard deviation 7.29057e-12
+minimal standard deviation 7.08891e-13
+sigma 2.22765e-05
+axisratio 122.801
+xbestever found after 2358 evaluations, function value 159.997
+      0.79844      0.125801
+xbest (of last generation, function value 159.997)
+      0.79844      0.125801
+xmean 
+      0.79844      0.125801
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.29057e-12   7.08891e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.03422e-12   6.54245e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.995338    -0.0964444
+Shortest axis (b_i where d_ii=max(diag(D))
+   -0.0964444     -0.995338
+
+# --------- Wed Apr 25 13:47:30 2018
+
+ N 2
+ seed 1070915284
+function evaluations 6966
+elapsed (CPU) time [s] 0.72
+function value f(x)=164.239
+maximal standard deviation 8.57593e-12
+minimal standard deviation 6.26756e-13
+sigma 6.52529e-05
+axisratio 1556.54
+xbestever found after 3744 evaluations, function value 164.239
+     -0.89893     -0.225956
+xbest (of last generation, function value 164.239)
+     -0.89893     -0.225956
+xmean 
+     -0.89893     -0.225956
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.57593e-12   6.26756e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.47845e-12   6.08942e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.997342     0.0728692
+Shortest axis (b_i where d_ii=max(diag(D))
+    0.0728692     -0.997342
+
+# --------- Wed Apr 25 13:47:44 2018
+
+ N 2
+ seed 1070915503
+function evaluations 774
+elapsed (CPU) time [s] 0.15
+function value f(x)=-12964.7
+maximal standard deviation 1.00797e-09
+minimal standard deviation 9.50097e-10
+sigma 8.35304e-07
+axisratio 1.06846
+xbestever found after 618 evaluations, function value -12964.7
+          1.1         -0.05
+xbest (of last generation, function value -12964.7)
+          1.1         -0.05
+xmean 
+          1.1         -0.05
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.50097e-10   1.00797e-09
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.11311e-09   1.04179e-09
+Longest axis (b_i where d_ii=max(diag(D))
+      0.15819      0.987409
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.987409       0.15819
+
+# --------- Wed Apr 25 13:47:44 2018
+
+ N 2
+ seed 1070915647
+function evaluations 3372
+elapsed (CPU) time [s] 0.56
+function value f(x)=688.065
+maximal standard deviation 9.0308e-12
+minimal standard deviation 6.35097e-12
+sigma 1.74708e-06
+axisratio 1.55367
+xbestever found after 996 evaluations, function value 688.065
+     0.858478      0.165146
+xbest (of last generation, function value 688.065)
+     0.858478      0.165146
+xmean 
+     0.858478      0.165146
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   9.0308e-12   6.35097e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.95964e-12   6.41038e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.972029      0.234861
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.234861     -0.972029
+
+# --------- Wed Apr 25 13:47:45 2018
+
+ N 2
+ seed 1070915942
+function evaluations 3366
+elapsed (CPU) time [s] 1.41
+function value f(x)=711.69
+maximal standard deviation 9.97343e-12
+minimal standard deviation 2.44693e-12
+sigma 1.59794e-06
+axisratio 12.7905
+xbestever found after 1614 evaluations, function value 711.69
+       1.3383      0.166101
+xbest (of last generation, function value 711.69)
+       1.3383      0.166101
+xmean 
+       1.3383      0.166101
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.44693e-12   9.97343e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.10481e-11    8.6377e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.222641        0.9749
+Shortest axis (b_i where d_ii=max(diag(D))
+      -0.9749      0.222641
+
+# --------- Wed Apr 25 13:47:45 2018
+
+ N 2
+ seed 1070916212
+function evaluations 3624
+elapsed (CPU) time [s] 0.44
+function value f(x)=152.021
+maximal standard deviation 9.34989e-12
+minimal standard deviation 3.6253e-13
+sigma 3.53506e-07
+axisratio 184.213
+xbestever found after 1764 evaluations, function value 152.021
+     0.768205     -0.200626
+xbest (of last generation, function value 152.021)
+     0.768206     -0.200626
+xmean 
+     0.768206     -0.200626
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.34989e-12    3.6253e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   1.0078e-11   5.47084e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.999272     0.0381421
+Shortest axis (b_i where d_ii=max(diag(D))
+    0.0381421     -0.999272
+
+# --------- Wed Apr 25 13:47:46 2018
+
+ N 2
+ seed 1070916445
+function evaluations 4218
+elapsed (CPU) time [s] 1.48
+function value f(x)=-1.26312
+maximal standard deviation 8.78421e-12
+minimal standard deviation 3.29652e-12
+sigma 1.51282e-06
+axisratio 84.7842
+xbestever found after 522 evaluations, function value -1.26316
+      1.44738      0.073664
+xbest (of last generation, function value -1.26312)
+      1.44737     0.0736592
+xmean 
+      1.44737     0.0736592
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.78421e-12   3.29652e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.91534e-12   1.16948e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.936501      0.350666
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.350666     -0.936501
+
+# --------- Wed Apr 25 13:47:47 2018
+
+ N 2
+ seed 1070916750
+function evaluations 10890
+elapsed (CPU) time [s] 1.34
+function value f(x)=2.03175
+maximal standard deviation 9.33507e-12
+minimal standard deviation 3.63482e-12
+sigma 0.425355
+axisratio 300.554
+xbestever found after 336 evaluations, function value 2.03144
+     0.749632     0.0787191
+xbest (of last generation, function value 2.03175)
+     0.749626     0.0787341
+xmean 
+     0.749626     0.0787341
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  3.63482e-12   9.33507e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.03241e-11   3.43502e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.362625      0.931935
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.931935     -0.362625
+
+# --------- Wed Apr 25 13:47:47 2018
+
+ N 2
+ seed 1070917488
+function evaluations 2424
+elapsed (CPU) time [s] 0.33
+function value f(x)=0.63598
+maximal standard deviation 9.45269e-12
+minimal standard deviation 8.33036e-12
+sigma 2.0546e-07
+axisratio 2.33935
+xbestever found after 918 evaluations, function value 0.634958
+      1.43964     0.0723527
+xbest (of last generation, function value 0.63598)
+      1.43964     0.0723525
+xmean 
+      1.43964     0.0723525
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.45269e-12   8.33036e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.13901e-11   4.86892e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.785425      0.618957
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.618957     -0.785425
+
+# --------- Wed Apr 25 13:47:48 2018
+
+ N 2
+ seed 1070917671
+function evaluations 2874
+elapsed (CPU) time [s] 0.42
+function value f(x)=0.0713342
+maximal standard deviation 8.69247e-12
+minimal standard deviation 4.00891e-12
+sigma 5.0253e-08
+axisratio 318.718
+xbestever found after 2442 evaluations, function value 0.0681192
+     0.761179     -0.172734
+xbest (of last generation, function value 0.0713342)
+     0.761179     -0.172734
+xmean 
+     0.761179     -0.172734
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.00891e-12   8.69247e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.01376e-11   3.18074e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.418697      0.908126
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.908126      0.418697
+
+# --------- Wed Apr 25 13:47:48 2018
+
+ N 2
+ seed 1070917944
+function evaluations 4146
+elapsed (CPU) time [s] 0.63
+function value f(x)=0.0242263
+maximal standard deviation 7.83817e-12
+minimal standard deviation 7.15236e-12
+sigma 1.734e-07
+axisratio 410.011
+xbestever found after 3324 evaluations, function value 0.0211738
+     0.761283     -0.172801
+xbest (of last generation, function value 0.0242263)
+     0.761283     -0.172801
+xmean 
+     0.761283     -0.172801
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.15236e-12   7.83817e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.12724e-11    2.7493e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.673883      0.738838
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.738838     -0.673883
+
+# --------- Wed Apr 25 13:47:49 2018
+
+ N 2
+ seed 1070918322
+function evaluations 2082
+elapsed (CPU) time [s] 0.32
+function value f(x)=0.0188706
+maximal standard deviation 8.47058e-12
+minimal standard deviation 6.34168e-12
+sigma 3.19707e-08
+axisratio 3.18419
+xbestever found after 474 evaluations, function value 0.00576855
+     0.761486      -0.17282
+xbest (of last generation, function value 0.0188706)
+     0.761468     -0.173134
+xmean 
+     0.761468     -0.173134
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.34168e-12   8.47058e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   1.0932e-11    3.4332e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.559878      0.828575
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.828575      0.559878
+
+# --------- Wed Apr 25 13:47:51 2018
+
+ N 2
+ seed 1070918496
+function evaluations 10410
+elapsed (CPU) time [s] 1.71
+function value f(x)=0.00518141
+maximal standard deviation 9.67065e-12
+minimal standard deviation 6.33576e-12
+sigma 2.9354
+axisratio 75.0298
+xbestever found after 2010 evaluations, function value -0.0129218
+      1.43864     0.0727913
+xbest (of last generation, function value 0.00518141)
+      1.43855     0.0728083
+xmean 
+      1.43855     0.0728083
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.33576e-12   9.67065e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.23021e-11   1.63963e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.548074       0.83643
+Shortest axis (b_i where d_ii=max(diag(D))
+     -0.83643      0.548074
+
+# --------- Wed Apr 25 13:47:52 2018
+
+ N 2
+ seed 1070919466
+function evaluations 7380
+elapsed (CPU) time [s] 1.21
+function value f(x)=-0.00277048
+maximal standard deviation 9.79997e-12
+minimal standard deviation 4.40691e-13
+sigma 0.000727621
+axisratio 29.4319
+xbestever found after 2058 evaluations, function value -0.0148669
+     0.761626     0.0731753
+xbest (of last generation, function value -0.00277048)
+     0.761625     0.0731752
+xmean 
+     0.761625     0.0731752
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.79997e-12   4.40691e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.01612e-11   3.45243e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.999446     0.0332684
+Shortest axis (b_i where d_ii=max(diag(D))
+    0.0332684     -0.999446
+
+# --------- Wed Apr 25 13:47:54 2018
+
+ N 2
+ seed 1070920135
+function evaluations 12576
+elapsed (CPU) time [s] 2.20
+function value f(x)=-0.018241
+maximal standard deviation 1.02757e-11
+minimal standard deviation 1.01376e-11
+sigma 1.16845
+axisratio 166554
+xbestever found after 1350 evaluations, function value -0.0350664
+     0.761455     0.0729709
+xbest (of last generation, function value -0.018241)
+     0.761406     0.0729347
+xmean 
+     0.761406     0.0729347
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.01376e-11   1.02757e-11
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.56321e-11   9.38562e-17
+Longest axis (b_i where d_ii=max(diag(D))
+     0.702307      0.711874
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.711874      0.702307
+
+# --------- Wed Apr 25 13:47:55 2018
+
+ N 2
+ seed 1070921352
+function evaluations 3606
+elapsed (CPU) time [s] 0.67
+function value f(x)=-0.00952944
+maximal standard deviation 9.70143e-12
+minimal standard deviation 7.47795e-12
+sigma 9.13115e-07
+axisratio 4.04704
+xbestever found after 1272 evaluations, function value -0.0302815
+       1.4385     0.0730414
+xbest (of last generation, function value -0.00952944)
+       1.4387     0.0733315
+xmean 
+       1.4387     0.0733315
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.70143e-12   7.47795e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   1.1743e-11   2.90164e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.821016      0.570905
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.570905     -0.821016
+
+# --------- Wed Apr 25 13:47:56 2018
+
+ N 2
+ seed 1070921752
+function evaluations 4854
+elapsed (CPU) time [s] 0.95
+function value f(x)=-0.0255116
+maximal standard deviation 7.3081e-12
+minimal standard deviation 4.12242e-12
+sigma 4.31812e-06
+axisratio 25.8075
+xbestever found after 2484 evaluations, function value -0.0363983
+     0.761445     -0.172859
+xbest (of last generation, function value -0.0255116)
+     0.761444     -0.172859
+xmean 
+     0.761444     -0.172859
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   7.3081e-12   4.12242e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.13395e-12   3.53927e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.871313     -0.490727
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.490727     -0.871313
+
+# --------- Wed Apr 25 13:47:57 2018
+
+ N 2
+ seed 1070922290
+function evaluations 6066
+elapsed (CPU) time [s] 1.18
+function value f(x)=-0.0292553
+maximal standard deviation 8.42867e-12
+minimal standard deviation 5.369e-12
+sigma 2.20912e-06
+axisratio 15306.8
+xbestever found after 1524 evaluations, function value -0.051369
+     0.761436     0.0728648
+xbest (of last generation, function value -0.0292553)
+     0.761449     0.0728718
+xmean 
+     0.761449     0.0728718
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.42867e-12     5.369e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.08219e-11   7.07002e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.843421      0.537253
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.537253     -0.843421
+
+# --------- Wed Apr 25 13:47:58 2018
+
+ N 2
+ seed 1070922949
+function evaluations 3342
+elapsed (CPU) time [s] 0.84
+function value f(x)=-0.0390718
+maximal standard deviation 9.04239e-12
+minimal standard deviation 4.44956e-12
+sigma 3.40964e-08
+axisratio 573.974
+xbestever found after 1224 evaluations, function value -0.0443038
+      1.43871     -0.173056
+xbest (of last generation, function value -0.0390718)
+      1.43871     -0.173059
+xmean 
+      1.43871     -0.173059
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.44956e-12   9.04239e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.08354e-11   1.88779e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.441404      0.897309
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.897309      0.441404
+
+# --------- Wed Apr 25 13:47:59 2018
+
+ N 2
+ seed 1070923437
+function evaluations 6276
+elapsed (CPU) time [s] 1.55
+function value f(x)=-0.0249981
+maximal standard deviation 1.33482e-11
+minimal standard deviation 7.98031e-12
+sigma 4.66365e-06
+axisratio 80741
+xbestever found after 6042 evaluations, function value -0.0429347
+      1.43868     -0.173043
+xbest (of last generation, function value -0.0249981)
+      1.43868     -0.173043
+xmean 
+      1.43868     -0.173043
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.98031e-12   1.33482e-11
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.69737e-11   2.10224e-16
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.513141      0.858304
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.858304     -0.513141
+
+# --------- Wed Apr 25 13:48:01 2018
+
+ N 2
+ seed 1070924279
+function evaluations 5040
+elapsed (CPU) time [s] 1.12
+function value f(x)=-0.026036
+maximal standard deviation 9.68715e-12
+minimal standard deviation 9.16767e-13
+sigma 3.19588e-06
+axisratio 38.5155
+xbestever found after 312 evaluations, function value -0.046134
+     0.761575      0.073023
+xbest (of last generation, function value -0.026036)
+     0.761419      0.072721
+xmean 
+     0.761419      0.072721
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.68715e-12   9.16767e-13
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.89926e-12    2.5702e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.995864    -0.0908535
+Shortest axis (b_i where d_ii=max(diag(D))
+   -0.0908535     -0.995864
+
+# --------- Wed Apr 25 13:48:02 2018
+
+ N 2
+ seed 1070924958
+function evaluations 5568
+elapsed (CPU) time [s] 1.27
+function value f(x)=-0.0433925
+maximal standard deviation 8.20137e-12
+minimal standard deviation 4.15192e-12
+sigma 6.58141e-06
+axisratio 1420.47
+xbestever found after 2256 evaluations, function value -0.0635249
+     0.761446     0.0730244
+xbest (of last generation, function value -0.0433925)
+     0.761445     0.0730241
+xmean 
+     0.761445     0.0730241
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.20137e-12   4.15192e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.00909e-11   7.10394e-15
+Longest axis (b_i where d_ii=max(diag(D))
+      0.89218      0.451681
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.451681      -0.89218
+
+# --------- Wed Apr 25 13:48:05 2018
+
+ N 2
+ seed 1070925661
+function evaluations 12000
+elapsed (CPU) time [s] 2.79
+function value f(x)=-0.0271071
+maximal standard deviation 9.3547e-12
+minimal standard deviation 3.34461e-12
+sigma 0.2195
+axisratio 23393.3
+xbestever found after 6210 evaluations, function value -0.0675387
+     0.761526     0.0732683
+xbest (of last generation, function value -0.0271071)
+     0.761523     0.0732775
+xmean 
+     0.761523     0.0732775
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  3.34461e-12    9.3547e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   1.0397e-11   4.44443e-16
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.336667      0.941624
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.941624     -0.336667
+
+# --------- Wed Apr 25 13:48:06 2018
+
+ N 2
+ seed 1070927225
+function evaluations 4590
+elapsed (CPU) time [s] 1.11
+function value f(x)=-0.0319928
+maximal standard deviation 7.7697e-12
+minimal standard deviation 2.02105e-12
+sigma 2.85688e-06
+axisratio 19.0181
+xbestever found after 1956 evaluations, function value -0.0552882
+     0.761624     -0.173197
+xbest (of last generation, function value -0.0319928)
+     0.761625     -0.173195
+xmean 
+     0.761625     -0.173195
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.02105e-12    7.7697e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.71664e-12   4.58333e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.248627      0.968599
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.968599      0.248627
+
+# --------- Wed Apr 25 13:48:07 2018
+
+ N 2
+ seed 1070927851
+function evaluations 5340
+elapsed (CPU) time [s] 1.35
+function value f(x)=-0.0531546
+maximal standard deviation 8.94643e-12
+minimal standard deviation 1.5557e-12
+sigma 7.66899e-07
+axisratio 3004.23
+xbestever found after 4752 evaluations, function value -0.0690074
+     0.761805     -0.173035
+xbest (of last generation, function value -0.0531546)
+     0.761805     -0.173035
+xmean 
+     0.761805     -0.173035
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   1.5557e-12   8.94643e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+   9.8292e-12   3.27179e-15
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.171309      0.985217
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.985217     -0.171309
+
+# --------- Wed Apr 25 13:48:08 2018
+
+ N 2
+ seed 1070928595
+function evaluations 3150
+elapsed (CPU) time [s] 0.81
+function value f(x)=-0.052552
+maximal standard deviation 6.95993e-12
+minimal standard deviation 3.44732e-13
+sigma 9.70399e-09
+axisratio 201.177
+xbestever found after 2178 evaluations, function value -0.0753335
+     0.761326     0.0728935
+xbest (of last generation, function value -0.052552)
+     0.761326     0.0728934
+xmean 
+     0.761326     0.0728934
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  3.44732e-13   6.95993e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  7.64478e-12   3.80002e-14
+Longest axis (b_i where d_ii=max(diag(D))
+   -0.0492609      0.998786
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.998786    -0.0492609
+
+# --------- Wed Apr 25 13:48:10 2018
+
+ N 2
+ seed 1070929074
+function evaluations 8598
+elapsed (CPU) time [s] 2.27
+function value f(x)=-0.0531852
+maximal standard deviation 8.50273e-12
+minimal standard deviation 8.48293e-12
+sigma 0.00029715
+axisratio 322.412
+xbestever found after 7212 evaluations, function value -0.062921
+     0.761287      -0.17294
+xbest (of last generation, function value -0.0531852)
+     0.761287      -0.17294
+xmean 
+     0.761287      -0.17294
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.50273e-12   8.48293e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.24713e-11   3.86813e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.707953       0.70626
+Shortest axis (b_i where d_ii=max(diag(D))
+      0.70626     -0.707953
+
+# --------- Wed Apr 25 13:48:13 2018
+
+ N 2
+ seed 1070930330
+function evaluations 9972
+elapsed (CPU) time [s] 2.73
+function value f(x)=-0.075805
+maximal standard deviation 8.382e-12
+minimal standard deviation 1.34064e-12
+sigma 0.304439
+axisratio 685.102
+xbestever found after 2202 evaluations, function value -0.0841453
+       1.4384     0.0730396
+xbest (of last generation, function value -0.075805)
+      1.43861     0.0735348
+xmean 
+      1.43861     0.0735348
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.34064e-12     8.382e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.19724e-12   1.34246e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.157895      0.987456
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.987456     -0.157895
+
+# --------- Wed Apr 25 13:48:14 2018
+
+ N 2
+ seed 1070931865
+function evaluations 3414
+elapsed (CPU) time [s] 0.98
+function value f(x)=-0.0343376
+maximal standard deviation 9.96467e-12
+minimal standard deviation 6.10268e-12
+sigma 2.53967e-07
+axisratio 14.7289
+xbestever found after 2616 evaluations, function value -0.0669906
+     0.761701     -0.173004
+xbest (of last generation, function value -0.0343376)
+     0.761701     -0.173004
+xmean 
+     0.761701     -0.173004
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.10268e-12   9.96467e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.21839e-11   8.27211e-13
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.517541      0.855658
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.855658     -0.517541
+
+# --------- Wed Apr 25 13:48:18 2018
+
+ N 2
+ seed 1070932425
+function evaluations 11358
+elapsed (CPU) time [s] 3.41
+function value f(x)=-0.0516036
+maximal standard deviation 1.32879e-07
+minimal standard deviation 1.8732e-09
+sigma 31.8807
+axisratio 3.56009e+06
+xbestever found after 5826 evaluations, function value -0.0807196
+     0.761388     0.0731145
+xbest (of last generation, function value -0.0516036)
+     0.761621     0.0731178
+xmean 
+     0.761621     0.0731178
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.32879e-07    1.8732e-09
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.40458e-07   3.94536e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.999901     0.0140956
+Shortest axis (b_i where d_ii=max(diag(D))
+    0.0140956     -0.999901
+
+# --------- Wed Apr 25 13:48:20 2018
+
+ N 2
+ seed 1070934353
+function evaluations 6666
+elapsed (CPU) time [s] 2.12
+function value f(x)=-0.0567986
+maximal standard deviation 9.80553e-12
+minimal standard deviation 2.96378e-12
+sigma 1.86031e-05
+axisratio 153636
+xbestever found after 5028 evaluations, function value -0.0736884
+     0.761312     0.0728979
+xbest (of last generation, function value -0.0567986)
+     0.761315      0.072897
+xmean 
+     0.761315      0.072897
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.80553e-12   2.96378e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.68995e-12   6.30709e-17
+Longest axis (b_i where d_ii=max(diag(D))
+      0.95723     -0.289329
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.289329      -0.95723
+
+# --------- Wed Apr 25 13:48:25 2018
+
+ N 2
+ seed 1070935534
+function evaluations 15666
+elapsed (CPU) time [s] 4.78
+function value f(x)=-0.0303737
+maximal standard deviation 7.68789e-12
+minimal standard deviation 4.88933e-12
+sigma 169.264
+axisratio 36110
+xbestever found after 14418 evaluations, function value -0.0722124
+       0.7617      -0.17338
+xbest (of last generation, function value -0.0303737)
+     0.761701      -0.17338
+xmean 
+     0.761701      -0.17338
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.68789e-12   4.88933e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.30408e-12    2.5766e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.843809     -0.536643
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.536643     -0.843809
+
+# --------- Wed Apr 25 13:48:29 2018
+
+ N 2
+ seed 1070938197
+function evaluations 13356
+elapsed (CPU) time [s] 4.13
+function value f(x)=-0.05952
+maximal standard deviation 8.23185e-11
+minimal standard deviation 2.86463e-11
+sigma 16.978
+axisratio 403332
+xbestever found after 1290 evaluations, function value -0.0885893
+     0.761494     0.0731778
+xbest (of last generation, function value -0.05952)
+     0.761436     0.0729947
+xmean 
+     0.761436     0.0729947
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.86463e-11   8.23185e-11
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.48362e-11   2.10338e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.328661      0.944448
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.944448      0.328661
+
+# --------- Wed Apr 25 13:48:32 2018
+
+ N 2
+ seed 1070940486
+function evaluations 8766
+elapsed (CPU) time [s] 3.34
+function value f(x)=-0.038515
+maximal standard deviation 8.20414e-12
+minimal standard deviation 4.81821e-12
+sigma 0.00130678
+axisratio 21483.4
+xbestever found after 4602 evaluations, function value -0.0765992
+     0.761667     -0.173039
+xbest (of last generation, function value -0.038515)
+     0.761667      -0.17304
+xmean 
+     0.761667      -0.17304
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.81821e-12   8.20414e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.01462e-11   4.72278e-16
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.506414      0.862291
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.862291     -0.506414
+
+# --------- Wed Apr 25 13:48:38 2018
+
+ N 2
+ seed 1070942331
+function evaluations 14232
+elapsed (CPU) time [s] 5.84
+function value f(x)=-0.0570008
+maximal standard deviation 8.80743e-12
+minimal standard deviation 2.78596e-12
+sigma 21.9158
+axisratio 21732.5
+xbestever found after 858 evaluations, function value -0.0874122
+     0.761297     -0.172992
+xbest (of last generation, function value -0.0570008)
+     0.761705     -0.172961
+xmean 
+     0.761705     -0.172961
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.80743e-12   2.78596e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.61001e-12   4.42195e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.953437      0.301593
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.301593     -0.953437
+
+# --------- Wed Apr 25 13:48:43 2018
+
+ N 2
+ seed 1070945578
+function evaluations 11610
+elapsed (CPU) time [s] 5.65
+function value f(x)=-0.0534967
+maximal standard deviation 2.66902e-10
+minimal standard deviation 1.13913e-10
+sigma 5.22093
+axisratio 1.76355e+06
+xbestever found after 2634 evaluations, function value -0.0995935
+     0.761505      0.073003
+xbest (of last generation, function value -0.0534967)
+     0.761602     0.0727792
+xmean 
+     0.761602     0.0727792
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.13913e-10   2.66902e-10
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  2.96025e-10   1.67858e-16
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.392539      0.919735
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.919735     -0.392539
+
+# --------- Wed Apr 25 13:48:45 2018
+
+ N 2
+ seed 1070948180
+function evaluations 7566
+elapsed (CPU) time [s] 2.64
+function value f(x)=-0.0737813
+maximal standard deviation 9.79463e-12
+minimal standard deviation 3.92346e-12
+sigma 0.000139606
+axisratio 9513.02
+xbestever found after 2184 evaluations, function value -0.0877115
+     0.761284     -0.172707
+xbest (of last generation, function value -0.0737813)
+     0.761304     -0.172715
+xmean 
+     0.761304     -0.172715
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.79463e-12   3.92346e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.13599e-11   1.19415e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.928291     -0.371854
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.371854     -0.928291
+
+# --------- Wed Apr 25 13:48:48 2018
+
+ N 2
+ seed 1070949685
+function evaluations 7554
+elapsed (CPU) time [s] 2.62
+function value f(x)=-0.0320893
+maximal standard deviation 8.84865e-12
+minimal standard deviation 8.15429e-12
+sigma 0.000174958
+axisratio 2715.27
+xbestever found after 6798 evaluations, function value -0.0892297
+     0.761528     0.0730634
+xbest (of last generation, function value -0.0320893)
+     0.761528     0.0730634
+xmean 
+     0.761528     0.0730634
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.15429e-12   8.84865e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.21836e-11   4.48706e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.677682      0.735355
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.735355      0.677682
+
+# --------- Wed Apr 25 13:48:53 2018
+
+ N 2
+ seed 1070951123
+function evaluations 12048
+elapsed (CPU) time [s] 4.30
+function value f(x)=-0.0647288
+maximal standard deviation 9.71596e-12
+minimal standard deviation 2.51129e-12
+sigma 63.8535
+axisratio 719.122
+xbestever found after 3672 evaluations, function value -0.0918698
+     0.761642     0.0729109
+xbest (of last generation, function value -0.0647288)
+     0.761289     0.0729972
+xmean 
+     0.761289     0.0729972
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.51129e-12   9.71596e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.08857e-11   1.51375e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.250303      0.968168
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.968168     -0.250303
+
+# --------- Wed Apr 25 13:48:55 2018
+
+ N 2
+ seed 1070953561
+function evaluations 7842
+elapsed (CPU) time [s] 2.86
+function value f(x)=-0.0888187
+maximal standard deviation 8.42905e-12
+minimal standard deviation 1.77973e-12
+sigma 0.0010045
+axisratio 743.616
+xbestever found after 6246 evaluations, function value -0.0984022
+     0.761859     0.0728732
+xbest (of last generation, function value -0.0888187)
+     0.761857     0.0728827
+xmean 
+     0.761857     0.0728827
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  1.77973e-12   8.42905e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.32929e-12   1.25458e-14
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.206551      0.978436
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.978436     -0.206551
+
+# --------- Wed Apr 25 13:48:57 2018
+
+ N 2
+ seed 1070955175
+function evaluations 3762
+elapsed (CPU) time [s] 1.64
+function value f(x)=-0.0545626
+maximal standard deviation 9.37874e-12
+minimal standard deviation 8.21289e-12
+sigma 1.4546e-07
+axisratio 152.277
+xbestever found after 2262 evaluations, function value -0.0844654
+     0.761213     0.0729336
+xbest (of last generation, function value -0.0545626)
+     0.761213     0.0729336
+xmean 
+     0.761213     0.0729336
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.21289e-12   9.37874e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.33672e-11   8.77818e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.659154      0.752008
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.752008      0.659154
+
+# --------- Wed Apr 25 13:49:03 2018
+
+ N 2
+ seed 1070956079
+function evaluations 10392
+elapsed (CPU) time [s] 5.45
+function value f(x)=-0.0461661
+maximal standard deviation 6.08363e-09
+minimal standard deviation 1.08871e-09
+sigma 0.489021
+axisratio 3.01006e+06
+xbestever found after 900 evaluations, function value -0.0883511
+     0.761552     0.0733109
+xbest (of last generation, function value -0.0461661)
+      0.76124     0.0731819
+xmean 
+      0.76124     0.0731819
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.08363e-09   1.08871e-09
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  6.64229e-09    2.2067e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.984362      0.176158
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.176158     -0.984362
+
+# --------- Wed Apr 25 13:49:12 2018
+
+ N 2
+ seed 1070959198
+function evaluations 12366
+elapsed (CPU) time [s] 8.74
+function value f(x)=-0.0628325
+maximal standard deviation 8.91655e-12
+minimal standard deviation 7.5974e-12
+sigma 0.13321
+axisratio 62013.1
+xbestever found after 7614 evaluations, function value -0.105624
+     0.761204      -0.17315
+xbest (of last generation, function value -0.0628325)
+     0.761357      -0.17302
+xmean 
+     0.761357      -0.17302
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.91655e-12    7.5974e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+    1.191e-11   1.92056e-16
+Longest axis (b_i where d_ii=max(diag(D))
+     0.761167      0.648556
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.648556     -0.761167
+
+# --------- Wed Apr 25 13:49:26 2018
+
+ N 2
+ seed 1070964071
+function evaluations 11340
+elapsed (CPU) time [s] 14.44
+function value f(x)=-0.0872442
+maximal standard deviation 2.05449e-08
+minimal standard deviation 4.2982e-09
+sigma 42.7558
+axisratio 3.21368e+06
+xbestever found after 10686 evaluations, function value -0.110711
+     0.761614     0.0731203
+xbest (of last generation, function value -0.0872442)
+     0.761614     0.0731203
+xmean 
+     0.761614     0.0731203
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+   4.2982e-09   2.05449e-08
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+    2.048e-08   6.37275e-15
+Longest axis (b_i where d_ii=max(diag(D))
+     0.204777      0.978809
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.978809      0.204777
+
+# --------- Wed Apr 25 13:49:31 2018
+
+ N 2
+ seed 1070972052
+function evaluations 7044
+elapsed (CPU) time [s] 5.04
+function value f(x)=-0.0581221
+maximal standard deviation 3.94035e-11
+minimal standard deviation 6.25626e-12
+sigma 3.34643e-05
+axisratio 103644
+xbestever found after 6666 evaluations, function value -0.10223
+     0.761455     0.0730437
+xbest (of last generation, function value -0.0581221)
+     0.761455     0.0730437
+xmean 
+     0.761455     0.0730437
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  6.25626e-12   3.94035e-11
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  4.28181e-11   4.13127e-16
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.156809      0.987629
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.987629     -0.156809
+
+# --------- Wed Apr 25 13:49:33 2018
+
+ N 2
+ seed 1070974861
+function evaluations 4104
+elapsed (CPU) time [s] 1.83
+function value f(x)=-0.0792762
+maximal standard deviation 8.84224e-12
+minimal standard deviation 7.68707e-12
+sigma 1.13913e-06
+axisratio 27.0845
+xbestever found after 3264 evaluations, function value -0.0932385
+      1.43865     -0.173268
+xbest (of last generation, function value -0.0792762)
+      1.43865     -0.173268
+xmean 
+      1.43865     -0.173268
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  7.68707e-12   8.84224e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.29101e-11    4.7666e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.656351      0.754456
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.754456      0.656351
+
+# --------- Wed Apr 25 13:49:36 2018
+
+ N 2
+ seed 1070975909
+function evaluations 6072
+elapsed (CPU) time [s] 2.95
+function value f(x)=-0.0664951
+maximal standard deviation 8.93289e-12
+minimal standard deviation 2.57266e-12
+sigma 0.000349874
+axisratio 6.99599
+xbestever found after 5970 evaluations, function value -0.0966168
+     0.761489     0.0730153
+xbest (of last generation, function value -0.0664951)
+     0.761489     0.0730153
+xmean 
+     0.761489     0.0730153
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  2.57266e-12   8.93289e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.97173e-12   1.42535e-12
+Longest axis (b_i where d_ii=max(diag(D))
+     0.246518      0.969138
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.969138      0.246518
+
+# --------- Wed Apr 25 13:49:39 2018
+
+ N 2
+ seed 1070977573
+function evaluations 6846
+elapsed (CPU) time [s] 2.88
+function value f(x)=-0.062764
+maximal standard deviation 9.38628e-12
+minimal standard deviation 4.68639e-12
+sigma 0.000185781
+axisratio 7.26199
+xbestever found after 1704 evaluations, function value -0.102872
+     0.761685     -0.172932
+xbest (of last generation, function value -0.062764)
+     0.761725     -0.173006
+xmean 
+     0.761725     -0.173006
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.68639e-12   9.38628e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.09008e-11   1.50108e-12
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.426267      0.904597
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.904597     -0.426267
+
+# --------- Wed Apr 25 13:49:41 2018
+
+ N 2
+ seed 1070979202
+function evaluations 2454
+elapsed (CPU) time [s] 1.28
+function value f(x)=-0.0848556
+maximal standard deviation 9.50803e-12
+minimal standard deviation 2.98148e-12
+sigma 1.5108e-08
+axisratio 12.1284
+xbestever found after 1950 evaluations, function value -0.106701
+     0.761708     -0.173265
+xbest (of last generation, function value -0.0848556)
+     0.761708     -0.173265
+xmean 
+     0.761708     -0.173265
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.50803e-12   2.98148e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.00686e-11   8.30166e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.957806      0.287416
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.287416     -0.957806
+
+# --------- Wed Apr 25 13:49:47 2018
+
+ N 2
+ seed 1070979977
+function evaluations 11310
+elapsed (CPU) time [s] 6.15
+function value f(x)=-0.0811235
+maximal standard deviation 1.50101e-06
+minimal standard deviation 4.84432e-07
+sigma 448.503
+axisratio 3.47067e+06
+xbestever found after 3816 evaluations, function value -0.133438
+     0.761538     -0.173166
+xbest (of last generation, function value -0.0811235)
+     0.761555     -0.173099
+xmean 
+     0.761555     -0.173099
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.84432e-07   1.50101e-06
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.54301e-06   4.44586e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.307137      0.951665
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.951665      0.307137
+
+# --------- Wed Apr 25 13:49:50 2018
+
+ N 2
+ seed 1070983396
+function evaluations 4686
+elapsed (CPU) time [s] 2.66
+function value f(x)=-0.0842439
+maximal standard deviation 9.55589e-12
+minimal standard deviation 3.60088e-13
+sigma 2.87955e-06
+axisratio 41.1982
+xbestever found after 2064 evaluations, function value -0.108374
+     0.761431     -0.173321
+xbest (of last generation, function value -0.0842439)
+     0.761434     -0.173295
+xmean 
+     0.761434     -0.173295
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  3.60088e-13   9.55589e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.90813e-12   2.40499e-13
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.027171      0.999631
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.999631     -0.027171
+
+# --------- Wed Apr 25 13:49:51 2018
+
+ N 2
+ seed 1070984914
+function evaluations 2916
+elapsed (CPU) time [s] 1.36
+function value f(x)=-0.0776342
+maximal standard deviation 8.35151e-12
+minimal standard deviation 5.42989e-12
+sigma 4.85609e-08
+axisratio 50.1232
+xbestever found after 2340 evaluations, function value -0.109689
+     0.761622     -0.173051
+xbest (of last generation, function value -0.0776342)
+     0.761622     -0.173051
+xmean 
+     0.761622     -0.173051
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  8.35151e-12   5.42989e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.06802e-11    2.1308e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.838569      0.544796
+Shortest axis (b_i where d_ii=max(diag(D))
+     0.544796     -0.838569
+
+# --------- Wed Apr 25 14:01:12 2018
+
+ N 2
+ seed 1070956003
+function evaluations 4494
+elapsed (CPU) time [s] 0.64
+function value f(x)=-2366.56
+maximal standard deviation 9.22845e-12
+minimal standard deviation 9.43209e-13
+sigma 1.28242e-06
+axisratio 513.108
+xbestever found after 1104 evaluations, function value -2366.56
+     0.604066         -0.05
+xbest (of last generation, function value -2366.56)
+     0.604066         -0.05
+xmean 
+     0.604066         -0.05
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.43209e-13   9.22845e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  9.85524e-12    1.9207e-14
+Longest axis (b_i where d_ii=max(diag(D))
+       0.1018      0.994805
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.994805        0.1018
+
+# --------- Wed Apr 25 14:01:13 2018
+
+ N 2
+ seed 1070956396
+function evaluations 4494
+elapsed (CPU) time [s] 0.48
+function value f(x)=427.9
+maximal standard deviation 9.95321e-12
+minimal standard deviation 6.63763e-12
+sigma 9.86592e-07
+axisratio 231.991
+xbestever found after 3870 evaluations, function value 427.9
+     0.708027     -0.186205
+xbest (of last generation, function value 427.9)
+     0.708027     -0.186205
+xmean 
+     0.708027     -0.186205
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  9.95321e-12   6.63763e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.27359e-11   5.48983e-14
+Longest axis (b_i where d_ii=max(diag(D))
+     0.831906     -0.554917
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.554917     -0.831906
+
+# --------- Wed Apr 25 14:01:13 2018
+
+ N 2
+ seed 1070956702
+function evaluations 4674
+elapsed (CPU) time [s] 0.52
+function value f(x)=-67.6979
+maximal standard deviation 7.04942e-12
+minimal standard deviation 3.55889e-12
+sigma 4.39432e-07
+axisratio 3313.18
+xbestever found after 1038 evaluations, function value -67.6979
+     0.784851     -0.155373
+xbest (of last generation, function value -67.6979)
+     0.784851     -0.155373
+xmean 
+     0.784851     -0.155373
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  3.55889e-12   7.04942e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  8.56823e-12   2.58611e-15
+Longest axis (b_i where d_ii=max(diag(D))
+    -0.450673      0.892689
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.892689     -0.450673
+
+# --------- Wed Apr 25 14:01:13 2018
+
+ N 2
+ seed 1070956978
+function evaluations 2286
+elapsed (CPU) time [s] 0.30
+function value f(x)=-19.7847
+maximal standard deviation 9.64433e-12
+minimal standard deviation 4.18511e-12
+sigma 3.36238e-08
+axisratio 16.9722
+xbestever found after 2016 evaluations, function value -19.7847
+     0.755648     -0.141347
+xbest (of last generation, function value -19.7847)
+     0.755648     -0.141347
+xmean 
+     0.755648     -0.141347
+Standard deviation of coordinate axes (sigma*sqrt(diag(C)))
+  4.18511e-12   9.64433e-12
+Main axis lengths of mutation ellipsoid (sigma*diag(D))
+  1.10823e-11   6.52967e-13
+Longest axis (b_i where d_ii=max(diag(D))
+     0.394729      0.918797
+Shortest axis (b_i where d_ii=max(diag(D))
+    -0.918797      0.394729

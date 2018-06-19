@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{A58C69CF-D34D-4D64-9B4C-A45808B15011}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Solver</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Program Files (x86)\Visual Leak Detector\include;%(AdditionalIncludeDirectories);  "C:\Program Files (x86)\Visual Leak Detector"</AdditionalIncludeDirectories>
+      <MultiProcessorCompilation>false</MultiProcessorCompilation>
+      <OpenMPSupport>true</OpenMPSupport>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\multi\Amazigh\mathMatrix.c" />
+    <ClCompile Include="..\..\multi\Amazigh\mathVector.c" />
+    <ClCompile Include="..\..\multi\Amazigh\openFile.c" />
+    <ClCompile Include="..\..\multi\Amazigh\plot2D.c" />
+    <ClCompile Include="..\..\multi\Amazigh\printFile.c" />
+    <ClCompile Include="..\..\multi\Amazigh\showFile.c" />
+    <ClCompile Include="..\..\multi\Amazigh\solvers.c" />
+    <ClCompile Include="..\..\multi\Amazigh\supportC.c" />
+    <ClCompile Include="..\..\multi\Bayes\bayesTest.c" />
+    <ClCompile Include="..\..\multi\Cardio\cardio.c" />
+    <ClCompile Include="..\..\multi\Cardio\cell.c" />
+    <ClCompile Include="..\..\multi\Cardio\FEM.c" />
+    <ClCompile Include="..\..\multi\Cardio\FEMTests.c" />
+    <ClCompile Include="..\..\multi\Cardio\geometry.c" />
+    <ClCompile Include="..\..\multi\Gaussian\gaussian.c" />
+    <ClCompile Include="..\..\multi\home.c" />
+    <ClCompile Include="..\..\multi\Solvers\CMAES\src\boundary_transformation.c" />
+    <ClCompile Include="..\..\multi\Solvers\CMAES\src\cmaes.c" />
+    <ClCompile Include="..\..\multi\Solvers\functions.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\driver1.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\lbfgsb.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\linesearch.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\linpack.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\miniCBLAS.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\print.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\subalgorithms.c" />
+    <ClCompile Include="..\..\multi\Solvers\LBFGSB\timer.c" />
+    <ClCompile Include="..\..\multi\Solvers\problemDef.c" />
+    <ClCompile Include="..\..\multi\Solvers\RV-GOMEA\RV-GOMEA.c" />
+    <ClCompile Include="..\..\multi\Solvers\solversAQ.c" />
+    <ClCompile Include="..\..\multi\Solvers\util\FOS.c" />
+    <ClCompile Include="..\..\multi\Solvers\util\SO_optimization.c" />
+    <ClCompile Include="..\..\multi\Solvers\util\ToolsWIN.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\multi\Amazigh\mathMatrix.h" />
+    <ClInclude Include="..\..\multi\Amazigh\mathVector.h" />
+    <ClInclude Include="..\..\multi\Amazigh\openFile.h" />
+    <ClInclude Include="..\..\multi\Amazigh\plot2D.h" />
+    <ClInclude Include="..\..\multi\Amazigh\printFile.h" />
+    <ClInclude Include="..\..\multi\Amazigh\showFile.h" />
+    <ClInclude Include="..\..\multi\Amazigh\solvers.h" />
+    <ClInclude Include="..\..\multi\Amazigh\supportC.h" />
+    <ClInclude Include="..\..\multi\Bayes\bayesTest.h" />
+    <ClInclude Include="..\..\multi\Cardio\cardio.h" />
+    <ClInclude Include="..\..\multi\Cardio\cell.h" />
+    <ClInclude Include="..\..\multi\Cardio\FEM.h" />
+    <ClInclude Include="..\..\multi\Cardio\FEMTests.h" />
+    <ClInclude Include="..\..\multi\Cardio\geometry.h" />
+    <ClInclude Include="..\..\multi\Gaussian\gaussian.h" />
+    <ClInclude Include="..\..\multi\Solvers\CMAES\src\boundary_transformation.h" />
+    <ClInclude Include="..\..\multi\Solvers\CMAES\src\cmaes.h" />
+    <ClInclude Include="..\..\multi\Solvers\CMAES\src\cmaes_interface.h" />
+    <ClInclude Include="..\..\multi\Solvers\functions.h" />
+    <ClInclude Include="..\..\multi\Solvers\LBFGSB\driver1.h" />
+    <ClInclude Include="..\..\multi\Solvers\LBFGSB\lbfgsb.h" />
+    <ClInclude Include="..\..\multi\Solvers\problemDef.h" />
+    <ClInclude Include="..\..\multi\Solvers\RV-GOMEA\RV-GOMEA.h" />
+    <ClInclude Include="..\..\multi\Solvers\solversAQ.h" />
+    <ClInclude Include="..\..\multi\Solvers\util\FOS.h" />
+    <ClInclude Include="..\..\multi\Solvers\util\SO_optimization.h" />
+    <ClInclude Include="..\..\multi\Solvers\util\ToolsWIN.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
